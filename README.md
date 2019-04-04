@@ -3,7 +3,7 @@
 ## how to use:
 
 1. `npm i react-usekeydown` / `yarn add react-usekeydown`
-2. `import useKeyDown from "react-usekeydown";";`
+2. `import useKeyDown from "react-usekeydown";`
 3. `const keys = useKeyDown();`
 
 (or just copy paste `src/usekeydown.js`)

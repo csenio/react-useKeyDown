@@ -13,14 +13,13 @@ const useKeyDown = () => {
   }, [keys]);
 
   const onKeyDown = ({ key }) => {
-    console.log(key);
     setKeys(k => [...new Set(k).add(key)]);
   };
   const onKeyUp = ({ key }) => {
     setKeys(ks => ks.filter(k => k !== key));
   };
 
-  return [...keys];
+  return keys;
 };
 
 export default useKeyDown;

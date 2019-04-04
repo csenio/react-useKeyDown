@@ -2,7 +2,7 @@
 
 ## how to use:
 
-1. `import useKeyDown from "./useKeyDown";`
+1. `import useKeyDown from "src/useKeyDown";`
 2. const keys = useKeyDown();
 
 keys will be equal to an array with all the pressed keys.

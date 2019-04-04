@@ -8,6 +8,6 @@
 
 (or just copy paste `src/usekeydown.js`)
 
-keys will be equal to an array with all the pressed keys.
+`keys` will be equal to an array with all the pressed keys.
 
 _or check [here](https://codesandbox.io/s/y0lxjr6j59) for a demo_

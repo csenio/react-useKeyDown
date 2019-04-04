@@ -2,7 +2,12 @@
   "name": "react-usekeydown",
   "version": "1.0.2",
   "description": "",
-  "keywords": [],
+  "keywords": [
+    "React",
+    "keydown",
+    "keypress",
+    "keyboard"
+  ],
   "main": "src/useKeyDown.js",
   "dependencies": {
     "react": "16.8.3",
